@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "513098651144",
+    "firebase_url": "https://railenquiry-4baff.firebaseio.com",
+    "project_id": "railenquiry-4baff",
+    "storage_bucket": "railenquiry-4baff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513098651144:android:905a66fa80f44f1d",
+        "android_client_info": {
+          "package_name": "com.example.user.railenquiry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513098651144-ktpkapdirta3ecouivhoa4s9gvpfmn8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.railenquiry",
+            "certificate_hash": "b6306028fa12e0952c76001086d5e4009554e6c8"
+          }
+        },
+        {
+          "client_id": "513098651144-jtfga3k61glujt5o12mlefb7d05u9970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpTgEdOr1VMl_JBsKfdANWbBKM8HtwhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513098651144-jtfga3k61glujt5o12mlefb7d05u9970.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homePage"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/trainStatus"
+            android:icon="@drawable/train"
+            android:title="Live Train Status" />
+        <item
+            android:id="@+id/pnrStatus"
+            android:icon="@drawable/tram"
+            android:title="PNR Status" />
+        <item
+            android:id="@+id/trainRoute"
+            android:icon="@drawable/route"
+            android:title="Train Route" />
+        <item
+            android:id="@+id/trainCancelled"
+            android:icon="@drawable/cancel"
+            android:title="Cancelled Trains" />
+        <item
+            android:id="@+id/trainRescheduled"
+            android:icon="@drawable/calendar"
+            android:title="Rescheduled Trains" />
+
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/signOut"
+                android:icon="@drawable/exit"
+                android:title="Sign Out" />
+        </menu>
+    </item>
+
+</menu>
